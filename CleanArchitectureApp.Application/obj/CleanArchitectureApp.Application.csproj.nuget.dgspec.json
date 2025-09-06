@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj",
+        "projectName": "CleanArchitectureApp.Application",
+        "projectPath": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj",
+        "packagesPath": "C:\\Users\\3MO TATA\\.nuget\\packages\\",
+        "outputPath": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\3MO TATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj": {
+                "projectPath": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj",
+        "projectName": "CleanArchitectureApp.Domain",
+        "projectPath": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\3MO TATA\\.nuget\\packages\\",
+        "outputPath": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\3MO TATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

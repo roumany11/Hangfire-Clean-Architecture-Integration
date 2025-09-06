@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24F40B26-B477-4141-9560-0164F3A20F7C}|CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F40B26-B477-4141-9560-0164F3A20F7C}|CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj|solutionrelative:cleanarchitectureapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1EC4B2-D783-47DC-BB73-1B7547F8A307}|CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.infrastructure\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1EC4B2-D783-47DC-BB73-1B7547F8A307}|CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj|solutionrelative:cleanarchitectureapp.infrastructure\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1EC4B2-D783-47DC-BB73-1B7547F8A307}|CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1EC4B2-D783-47DC-BB73-1B7547F8A307}|CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj|solutionrelative:cleanarchitectureapp.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1EC4B2-D783-47DC-BB73-1B7547F8A307}|CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.infrastructure\\cleanarchitectureapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F1EC4B2-D783-47DC-BB73-1B7547F8A307}|CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj|solutionrelative:cleanarchitectureapp.infrastructure\\cleanarchitectureapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\services\\backgroundjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\services\\backgroundjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\dtos\\productreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\dtos\\productreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\interfaces\\ibackgroundjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\interfaces\\ibackgroundjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F40B26-B477-4141-9560-0164F3A20F7C}|CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.webapi\\cleanarchitectureapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24F40B26-B477-4141-9560-0164F3A20F7C}|CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj|solutionrelative:cleanarchitectureapp.webapi\\cleanarchitectureapp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1EC4B2-D783-47DC-BB73-1B7547F8A307}|CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.infrastructure\\migrations\\20250906000634_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1EC4B2-D783-47DC-BB73-1B7547F8A307}|CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj|solutionrelative:cleanarchitectureapp.infrastructure\\migrations\\20250906000634_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\cleanarchitectureapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\cleanarchitectureapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F40B26-B477-4141-9560-0164F3A20F7C}|CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F40B26-B477-4141-9560-0164F3A20F7C}|CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj|solutionrelative:cleanarchitectureapp.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F40B26-B477-4141-9560-0164F3A20F7C}|CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24F40B26-B477-4141-9560-0164F3A20F7C}|CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj|solutionrelative:cleanarchitectureapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1EC4B2-D783-47DC-BB73-1B7547F8A307}|CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1EC4B2-D783-47DC-BB73-1B7547F8A307}|CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj|solutionrelative:cleanarchitectureapp.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1EC4B2-D783-47DC-BB73-1B7547F8A307}|CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1EC4B2-D783-47DC-BB73-1B7547F8A307}|CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj|solutionrelative:cleanarchitectureapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F00CB8-13B6-4044-B31D-7267D5B3FD0D}|CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F00CB8-13B6-4044-B31D-7267D5B3FD0D}|CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj|solutionrelative:cleanarchitectureapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F00CB8-13B6-4044-B31D-7267D5B3FD0D}|CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F00CB8-13B6-4044-B31D-7267D5B3FD0D}|CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj|solutionrelative:cleanarchitectureapp.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F00CB8-13B6-4044-B31D-7267D5B3FD0D}|CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.domain\\cleanarchitectureapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37F00CB8-13B6-4044-B31D-7267D5B3FD0D}|CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj|solutionrelative:cleanarchitectureapp.domain\\cleanarchitectureapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F40B26-B477-4141-9560-0164F3A20F7C}|CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F40B26-B477-4141-9560-0164F3A20F7C}|CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj|solutionrelative:cleanarchitectureapp.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\mappings\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\mappings\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|d:\\fci\\iti\\01- lets start our journey\\projects\\cleanarchitectureapp\\cleanarchitectureapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF16ECA6-D9CC-42D3-8B60-BF6A30250C28}|CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj|solutionrelative:cleanarchitectureapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Infrastructure\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Infrastructure\\Services\\ReportService.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Infrastructure\\Services\\ReportService.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Infrastructure\\Services\\ReportService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T03:52:25.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAADYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T03:47:28.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BackgroundJobService.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Services\\BackgroundJobService.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\Services\\BackgroundJobService.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Services\\BackgroundJobService.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\Services\\BackgroundJobService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwEIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T03:39:53.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductReportDto.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\DTOs\\ProductReportDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\DTOs\\ProductReportDto.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\DTOs\\ProductReportDto.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\DTOs\\ProductReportDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T03:38:38.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Interfaces\\IReportService.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\Interfaces\\IReportService.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Interfaces\\IReportService.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\Interfaces\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T03:36:24.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\Interfaces\\IEmailService.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T03:35:24.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.WebApi\\Program.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.WebApi\\Program.cs",
+              "RelativeToolTip": "CleanArchitectureApp.WebApi\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T23:16:48.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBackgroundJobService.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Interfaces\\IBackgroundJobService.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\Interfaces\\IBackgroundJobService.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Interfaces\\IBackgroundJobService.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\Interfaces\\IBackgroundJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T03:34:27.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CleanArchitectureApp.Infrastructure",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj",
+              "RelativeToolTip": "CleanArchitectureApp.Infrastructure\\CleanArchitectureApp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T23:38:50.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250906000634_first.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Infrastructure\\Migrations\\20250906000634_first.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Infrastructure\\Migrations\\20250906000634_first.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Infrastructure\\Migrations\\20250906000634_first.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Infrastructure\\Migrations\\20250906000634_first.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:06:35.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T23:41:55.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CleanArchitectureApp.WebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T23:21:11.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CleanArchitectureApp.WebApi",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj",
+              "RelativeToolTip": "CleanArchitectureApp.WebApi\\CleanArchitectureApp.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T23:28:32.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.WebApi\\appsettings.json",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.WebApi\\appsettings.json",
+              "RelativeToolTip": "CleanArchitectureApp.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T23:49:53.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CleanArchitectureApp.Application",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\CleanArchitectureApp.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T18:10:52.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T23:39:08.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:18:26.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:06:53.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:05:21.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T23:07:28.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CleanArchitectureApp.Domain",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj",
+              "RelativeToolTip": "CleanArchitectureApp.Domain\\CleanArchitectureApp.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T18:14:49.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:13:36.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\DTOs\\CreateProductDto.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\DTOs\\CreateProductDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:02:51.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CleanArchitectureApp.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T23:20:57.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:00:19.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Mappings\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\Mappings\\ProductProfile.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Mappings\\ProductProfile.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\Mappings\\ProductProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:11:35.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureApp.Application\\Class1.cs",
+              "ToolTip": "D:\\FCI\\iti\\01- lets start our journey\\projects\\CleanArchitectureApp\\CleanArchitectureApp.Application\\Class1.cs",
+              "RelativeToolTip": "CleanArchitectureApp.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:07:40.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

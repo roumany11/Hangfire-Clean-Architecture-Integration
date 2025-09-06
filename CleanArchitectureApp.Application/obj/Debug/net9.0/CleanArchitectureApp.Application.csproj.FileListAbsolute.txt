@@ -1,0 +1,15 @@
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net9.0\CleanArchitectureApp.Application.csproj.AssemblyReference.cache
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net9.0\CleanArchitectureApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net9.0\CleanArchitectureApp.Application.AssemblyInfoInputs.cache
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net9.0\CleanArchitectureApp.Application.AssemblyInfo.cs
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net9.0\CleanArchitectureApp.Application.csproj.CoreCompileInputs.cache
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\bin\Debug\net9.0\CleanArchitectureApp.Application.deps.json
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\bin\Debug\net9.0\CleanArchitectureApp.Application.dll
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\bin\Debug\net9.0\CleanArchitectureApp.Application.pdb
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\bin\Debug\net9.0\CleanArchitectureApp.Domain.dll
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\bin\Debug\net9.0\CleanArchitectureApp.Domain.pdb
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net9.0\CleanArc.01993744.Up2Date
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net9.0\CleanArchitectureApp.Application.dll
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net9.0\refint\CleanArchitectureApp.Application.dll
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net9.0\CleanArchitectureApp.Application.pdb
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Application\obj\Debug\net9.0\ref\CleanArchitectureApp.Application.dll

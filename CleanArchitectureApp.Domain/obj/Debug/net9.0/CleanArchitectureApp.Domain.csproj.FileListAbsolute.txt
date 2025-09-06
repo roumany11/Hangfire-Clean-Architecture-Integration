@@ -1,0 +1,12 @@
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Domain\bin\Debug\net9.0\CleanArchitectureApp.Domain.deps.json
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Domain\bin\Debug\net9.0\CleanArchitectureApp.Domain.dll
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Domain\bin\Debug\net9.0\CleanArchitectureApp.Domain.pdb
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net9.0\CleanArchitectureApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net9.0\CleanArchitectureApp.Domain.AssemblyInfoInputs.cache
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net9.0\CleanArchitectureApp.Domain.AssemblyInfo.cs
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net9.0\CleanArchitectureApp.Domain.csproj.CoreCompileInputs.cache
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net9.0\CleanArchitectureApp.Domain.dll
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net9.0\refint\CleanArchitectureApp.Domain.dll
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net9.0\CleanArchitectureApp.Domain.pdb
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net9.0\ref\CleanArchitectureApp.Domain.dll
+D:\FCI\iti\01- lets start our journey\projects\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net9.0\CleanArchitectureApp.Domain.csproj.AssemblyReference.cache
